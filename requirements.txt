@@ -1,0 +1,4 @@
+# PersonalSite/myapp.py: 1
+Flask == 1.1.1
+# PersonalSite/freeze.py: 1
+Frozen_Flask == 0.15
